@@ -1,1 +1,2 @@
-"# golang_map" 
+# Map
+variable with key and value pair
